@@ -13,4 +13,4 @@ for i in range(int(gamenum)):
     ret.sort()
     print('로또번호[%d]:'%(i + 1), end='')
     print(ret)
-    sleep(0.5)
+    sleep(1)
